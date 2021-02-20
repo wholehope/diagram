@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T00:38:20.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="b4itfjjS-Uqbtd71O7K-" version="13.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-20T00:48:15.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="l7a_7vgex8Giv3KM6Pgl" version="13.4.9" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="clO0gQxYRbjcscfBldyJ-1" value="Digital Wallets" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/luchesa-vol-9/128/Purse-128.png" vertex="1" parent="1">
+        <mxCell id="clO0gQxYRbjcscfBldyJ-1" value="Digital Wallets （存储服务-&amp;gt;委托投资服务）" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/luchesa-vol-9/128/Purse-128.png" vertex="1" parent="1">
           <mxGeometry x="410" y="163" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="clO0gQxYRbjcscfBldyJ-3" value="Ponzi Style" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="1">
@@ -30,8 +30,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clO0gQxYRbjcscfBldyJ-9" value="&lt;ul&gt;&lt;li&gt;promise high return arbitrage between exchanges（搬砖 moving bricks）&lt;br&gt;&lt;/li&gt;&lt;li&gt;may or may not exist real arbitrage&lt;/li&gt;&lt;li&gt;return is awarded in the form of pluscoin https://www.plus-coin.com/en/&amp;nbsp; the website is still on as of Feb-2021&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="380" y="270" width="310" height="120" as="geometry" />
+        <mxCell id="clO0gQxYRbjcscfBldyJ-9" value="&lt;ul&gt;&lt;li&gt;promise high return arbitrage between exchanges（搬砖 moving bricks）&lt;br&gt;&lt;/li&gt;&lt;li&gt;may or may not exist real arbitrage&lt;/li&gt;&lt;li&gt;return is awarded in the form of pluscoin https://www.plus-coin.com/en/&amp;nbsp; the website is still on as of Feb-2021&lt;/li&gt;&lt;li&gt;传销是否有真正的足够高的收益是界定行政违法和犯罪的重要依据&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="380" y="270" width="310" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="clO0gQxYRbjcscfBldyJ-10" value="&lt;ul&gt;&lt;li&gt;在会员层级的形式上构成传销&lt;/li&gt;&lt;li&gt;最终法院认定为传销，而不是非法吸收公众存款或诈骗，刑期2-12年&lt;/li&gt;&lt;li&gt;追缴的数字货币，全部上缴国库，因为传销的极大概率(11/&amp;gt;2000返还的可能)不会进行返还；&lt;/li&gt;&lt;li&gt;传销中不好界定存粹的受害者，我国的传销条例中对于参与者，也是需要行政处罚的&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="90" y="300" width="260" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
